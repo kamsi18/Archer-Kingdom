@@ -29,7 +29,7 @@ Arrows	18
 Money	18
 Food / Medkits	3 / 1
 
-# visit file:///C:/Users/USER/PROJECT/archer-kingdom/index.html
+# visit "C:\Users\USER\PROJECT\archer-kingdom\index.html"
 Saving progress
 
 Progress is saved to the browser's localStorage. Clearing site data, private browsing or switching browsers will remove or hide your save.
